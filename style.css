@@ -44,6 +44,19 @@ form {
 input, textarea, button {
   padding: 10px;
 }
+#formMsg {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
 footer {
   padding: 20px 0;
   border-top: 1px solid black;
